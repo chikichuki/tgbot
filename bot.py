@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-TOKEN = "8557013168:AAEPqyJ0eri6ooTk8iAwGtQ881eRvQOECDw"
+TOKEN = "8749362993:AAFwSz4QMkHgdomRfXTqm50yoza_tKND5cg"
 bot = telebot.TeleBot(TOKEN)
 
 tariffs = []
